@@ -21,7 +21,7 @@ static uint8_t numero_tarefas = 0;
 /* funcao para realizar o escalonamento de tarefas por prioridades 
    que retorna a proxima tarefa que sera executada, isto e, aquela que
    tem a maior prioridade e que esta pronta para executar */
-   
+
 uint8_t escalonador(void)
 {
     
@@ -52,7 +52,6 @@ uint8_t escalonador(void)
 	
     return tarefa_selecionada;
 }
- 
 
 
 /*********************************************/
@@ -118,7 +117,9 @@ void tarefa_ociosa(void)
 {
 	
 	for(;;)
-	{		
+	{	
+                //cooperativo - habilitar
+                //preemptivo - desabilitar
 		#if 1
 			REG_ATOMICA_INICIO();
 			TrocaContexto();				/* tarefa atual solicita troca de contexto */
