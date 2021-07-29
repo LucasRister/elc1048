@@ -5177,6 +5177,468 @@
     "scope": null
   },
   {
+    "ID": "c:@F@tarefa_1",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_1(void)",
+    "location": {
+      "column": "6",
+      "line": "9",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_2",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_2(void)",
+    "location": {
+      "column": "6",
+      "line": "10",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_3",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_3(void)",
+    "location": {
+      "column": "6",
+      "line": "11",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_4",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_4(void)",
+    "location": {
+      "column": "6",
+      "line": "12",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_5",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_5(void)",
+    "location": {
+      "column": "6",
+      "line": "13",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_6",
+    "What": "Function",
+    "defdec": "Dec",
+    "display": "void tarefa_6(void)",
+    "location": {
+      "column": "6",
+      "line": "14",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@350@macro@TAM_PILHA_1",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_1",
+    "location": {
+      "column": "9",
+      "line": "21",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@396@macro@TAM_PILHA_2",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_2",
+    "location": {
+      "column": "9",
+      "line": "22",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@442@macro@TAM_PILHA_3",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_3",
+    "location": {
+      "column": "9",
+      "line": "23",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@488@macro@TAM_PILHA_4",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_4",
+    "location": {
+      "column": "9",
+      "line": "24",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@534@macro@TAM_PILHA_5",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_5",
+    "location": {
+      "column": "9",
+      "line": "25",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@580@macro@TAM_PILHA_6",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_6",
+    "location": {
+      "column": "9",
+      "line": "26",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:main.c@726@macro@TAM_PILHA_OCIOSA",
+    "What": "MacroDef",
+    "defdec": "Def",
+    "display": "TAM_PILHA_OCIOSA",
+    "location": {
+      "column": "9",
+      "line": "29",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "TAM_PILHA_OCIOSA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_1",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_1",
+    "location": {
+      "column": "10",
+      "line": "35",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_2",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_2",
+    "location": {
+      "column": "10",
+      "line": "36",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_3",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_3",
+    "location": {
+      "column": "10",
+      "line": "37",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_4",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_4",
+    "location": {
+      "column": "10",
+      "line": "38",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_5",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_5",
+    "location": {
+      "column": "10",
+      "line": "39",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_6",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_6",
+    "location": {
+      "column": "10",
+      "line": "40",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@PILHA_TAREFA_OCIOSA",
+    "What": "Variable",
+    "defdec": "Dec",
+    "display": "PILHA_TAREFA_OCIOSA",
+    "location": {
+      "column": "10",
+      "line": "43",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "PILHA_TAREFA_OCIOSA",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@main",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "int main(void)",
+    "location": {
+      "column": "5",
+      "line": "49",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "main",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@a",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "a",
+    "location": {
+      "column": "10",
+      "line": "87",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "a",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@b",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "b",
+    "location": {
+      "column": "15",
+      "line": "87",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "b",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@c",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "c",
+    "location": {
+      "column": "20",
+      "line": "87",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "c",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@d",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "d",
+    "location": {
+      "column": "25",
+      "line": "87",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "d",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@e",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "e",
+    "location": {
+      "column": "30",
+      "line": "87",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "e",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@f",
+    "What": "Variable",
+    "defdec": "Def",
+    "display": "f",
+    "location": {
+      "column": "35",
+      "line": "87",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "f",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_1",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_1(void)",
+    "location": {
+      "column": "6",
+      "line": "90",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_1",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_2",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_2(void)",
+    "location": {
+      "column": "6",
+      "line": "99",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_2",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_3",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_3(void)",
+    "location": {
+      "column": "6",
+      "line": "109",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_3",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_4",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_4(void)",
+    "location": {
+      "column": "6",
+      "line": "119",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_4",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_5",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_5(void)",
+    "location": {
+      "column": "6",
+      "line": "129",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_5",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
+    "ID": "c:@F@tarefa_6",
+    "What": "Function",
+    "defdec": "Def",
+    "display": "void tarefa_6(void)",
+    "location": {
+      "column": "6",
+      "line": "138",
+      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
+    },
+    "name": "tarefa_6",
+    "origin": "project_file",
+    "scope": null
+  },
+  {
     "ID": "c:ysizet.h@111@macro@_YSIZET_H",
     "What": "MacroDef",
     "defdec": "Def",
@@ -5258,538 +5720,6 @@
     },
     "name": "__data_size_t",
     "origin": "system_include",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_1",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_1(void)",
-    "location": {
-      "column": "6",
-      "line": "9",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_2",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_2(void)",
-    "location": {
-      "column": "6",
-      "line": "10",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_3",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_3(void)",
-    "location": {
-      "column": "6",
-      "line": "11",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_4",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void tarefa_4(void)",
-    "location": {
-      "column": "6",
-      "line": "12",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@produtor",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void produtor(void)",
-    "location": {
-      "column": "6",
-      "line": "13",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "produtor",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@consumidor",
-    "What": "Function",
-    "defdec": "Dec",
-    "display": "void consumidor(void)",
-    "location": {
-      "column": "6",
-      "line": "14",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "consumidor",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@302@macro@TAM_PILHA_1",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_1",
-    "location": {
-      "column": "9",
-      "line": "19",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PILHA_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@348@macro@TAM_PILHA_2",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_2",
-    "location": {
-      "column": "9",
-      "line": "20",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PILHA_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@394@macro@TAM_PILHA_3",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_3",
-    "location": {
-      "column": "9",
-      "line": "21",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PILHA_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@440@macro@TAM_PILHA_4",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_4",
-    "location": {
-      "column": "9",
-      "line": "22",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PILHA_4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@486@macro@TAM_PRODUTOR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PRODUTOR",
-    "location": {
-      "column": "9",
-      "line": "23",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PRODUTOR",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@533@macro@TAM_CONSUMIDOR",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_CONSUMIDOR",
-    "location": {
-      "column": "9",
-      "line": "24",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_CONSUMIDOR",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@582@macro@TAM_PILHA_OCIOSA",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_PILHA_OCIOSA",
-    "location": {
-      "column": "9",
-      "line": "25",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_PILHA_OCIOSA",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@632@macro@TAM_BUFFER",
-    "What": "MacroDef",
-    "defdec": "Def",
-    "display": "TAM_BUFFER",
-    "location": {
-      "column": "9",
-      "line": "26",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "TAM_BUFFER",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_1",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_1",
-    "location": {
-      "column": "10",
-      "line": "31",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_2",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_2",
-    "location": {
-      "column": "10",
-      "line": "32",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_3",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_3",
-    "location": {
-      "column": "10",
-      "line": "33",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_4",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_4",
-    "location": {
-      "column": "10",
-      "line": "34",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_PRODUTOR",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_PRODUTOR",
-    "location": {
-      "column": "10",
-      "line": "35",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_PRODUTOR",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_CONSUMIDOR",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_CONSUMIDOR",
-    "location": {
-      "column": "10",
-      "line": "36",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_CONSUMIDOR",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@PILHA_TAREFA_OCIOSA",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "PILHA_TAREFA_OCIOSA",
-    "location": {
-      "column": "10",
-      "line": "37",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "PILHA_TAREFA_OCIOSA",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@main",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "int main(void)",
-    "location": {
-      "column": "5",
-      "line": "43",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "main",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_1",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_1(void)",
-    "location": {
-      "column": "6",
-      "line": "77",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_1",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@2102@F@tarefa_1@a",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "a",
-    "location": {
-      "column": "20",
-      "line": "79",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "a",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_2",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_2(void)",
-    "location": {
-      "column": "6",
-      "line": "87",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_2",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@2220@F@tarefa_2@b",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "b",
-    "location": {
-      "column": "20",
-      "line": "89",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "b",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_3",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_3(void)",
-    "location": {
-      "column": "6",
-      "line": "97",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_3",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@2345@F@tarefa_3@c",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "c",
-    "location": {
-      "column": "20",
-      "line": "99",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "c",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@tarefa_4",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void tarefa_4(void)",
-    "location": {
-      "column": "6",
-      "line": "107",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "tarefa_4",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:main.c@2465@F@tarefa_4@d",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "d",
-    "location": {
-      "column": "20",
-      "line": "109",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "d",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@cheio",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "cheio",
-    "location": {
-      "column": "12",
-      "line": "118",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "cheio",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@vazio",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "vazio",
-    "location": {
-      "column": "12",
-      "line": "119",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "vazio",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@buffer",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "buffer",
-    "location": {
-      "column": "10",
-      "line": "121",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "buffer",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@e",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "e",
-    "location": {
-      "column": "9",
-      "line": "122",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "e",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@f",
-    "What": "Variable",
-    "defdec": "Def",
-    "display": "f",
-    "location": {
-      "column": "14",
-      "line": "122",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "f",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@read",
-    "What": "Variable",
-    "defdec": "Dec",
-    "display": "read",
-    "location": {
-      "column": "19",
-      "line": "122",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "read",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@produtor",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void produtor(void)",
-    "location": {
-      "column": "6",
-      "line": "124",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "produtor",
-    "origin": "project_file",
-    "scope": null
-  },
-  {
-    "ID": "c:@F@consumidor",
-    "What": "Function",
-    "defdec": "Def",
-    "display": "void consumidor(void)",
-    "location": {
-      "column": "6",
-      "line": "139",
-      "path": "C:\\Users\\User\\Desktop\\Embarcados\\elc1048\\MULTITAREFAS\\IAR\\main.c"
-    },
-    "name": "consumidor",
-    "origin": "project_file",
     "scope": null
   },
   {
